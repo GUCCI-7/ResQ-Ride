@@ -5,3 +5,5 @@ streamlit-folium
 streamlit-js-eval
 geopy
 requests
+Qrcode
+pillow
