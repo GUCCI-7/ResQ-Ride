@@ -2,5 +2,7 @@ streamlit
 pandas
 folium
 streamlit-folium
+streamlit-js-eval
+geopy
 requests
 openpyx1
