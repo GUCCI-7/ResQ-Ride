@@ -1,5 +1,7 @@
 streamlit
-firebase-admin
 pandas
-qrcode[pil]
-Pillow
+folium
+streamlit-folium
+streamlit-js-eval
+requests
+openpyx1
