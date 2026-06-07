@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+pandas
+qrcode[pil]
+Pillow
